@@ -1,0 +1,10 @@
+Package hrfilesize 1.0
+Meta category    OS
+Meta description Human readable file size
+Meta entrysource hrfilesize.tcl
+Meta included    hrfilesize.tcl
+Meta platform    tcl
+Meta require     math::bigfloat
+Meta subject     {Human readable file size}
+Meta summary     Human readable file size
+
